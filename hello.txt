@@ -1,1 +1,1 @@
-Hello from both branches
+Added new line in feature hello again
