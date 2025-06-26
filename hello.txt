@@ -1,1 +1,1 @@
-Hello from git world
+Hello from both branches
